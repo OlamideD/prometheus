@@ -2,10 +2,10 @@
 from __future__ import unicode_literals
 from . import __version__ as app_version
 
-app_name = "Prometheus"
-app_title = "Prometheus"
+app_name = "dcl"
+app_title = "dcl"
 app_publisher = "Promatics"
-app_description = "Prometheus"
+app_description = "dcl"
 app_icon = "octicon octicon-file-directory"
 app_color = "blue"
 app_email = "tech@promatics.ng"

@@ -13,9 +13,9 @@ with open('dcl/__init__.py', 'rb') as f:
 		f.read().decode('utf-8')).group(1)))
 
 setup(
-	name='Prometheus',
+	name='dcl',
 	version=version,
-	description='Prometheus',
+	description='dcl',
 	author='Promatics',
 	author_email='tech@promatics.ng',
 	packages=find_packages(),
