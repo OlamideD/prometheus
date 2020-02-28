@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-root_path="/home/frappe/frappe-bench"
+root_path="erpnext/frappe-bench"
 full_path=$root_path"/apps/dcl/dcl/core_custs/erpnext/footer_powered.html"
 full_path_dest=$root_path"/apps/erpnext/erpnext/templates/includes/footer/footer_powered.html"
 cp $full_path $full_path_dest
